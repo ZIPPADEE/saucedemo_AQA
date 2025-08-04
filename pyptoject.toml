@@ -1,0 +1,5 @@
+[tool.pytest.ini_options]
+addopts = "-v --headed"
+python_filest = ["test_*.py", "*_test.py"]
+python_classes = ["Test", "BaseTest"]
+python_functions = ["test_"]
