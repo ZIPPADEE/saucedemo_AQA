@@ -1,5 +1,5 @@
 
-Тестирование сайта "https://www.saucedemo.com/" с использованием:
+Testing the website "https://www.saucedemo.com/" using:
 - Python
 - Pytest
 - Playwright
